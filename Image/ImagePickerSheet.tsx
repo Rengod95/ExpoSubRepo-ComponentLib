@@ -1,4 +1,4 @@
-import {BasicSheet} from '@/app/View/Components/Sheet/BasicSheet.tsx';
+import {BasicSheet} from '@/app/View/lib/Sheet/BasicSheet.tsx';
 import {Button, Sheet, Theme, Text} from 'tamagui';
 
 type ImagePickerSheetProps = {
